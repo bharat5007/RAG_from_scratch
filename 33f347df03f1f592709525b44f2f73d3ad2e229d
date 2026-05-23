@@ -1,0 +1,23 @@
+.gitignore
+  154588151a07c3e0 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "33f347df03f1f592709525b44f2f73d3ad2e229d",
+  "prompts": {
+    "154588151a07c3e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b1307e2-37c3-4043-a9ab-c0423b9bac96",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "bharat5007 <bharatgoyal5007@gmail.com>",
+      "messages": [],
+      "total_additions": 47,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
