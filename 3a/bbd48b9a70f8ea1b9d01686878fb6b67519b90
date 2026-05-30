@@ -1,0 +1,19 @@
+README.md
+  s_ec9e245adee7d2::t_0195e8300124a9 1-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "3abbd48b9a70f8ea1b9d01686878fb6b67519b90",
+  "prompts": {},
+  "sessions": {
+    "s_ec9e245adee7d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9a82c194-9cd7-4a1e-8934-5b19e8d07579",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "bharat5007 <bharatgoyal5007@gmail.com>"
+    }
+  }
+}
